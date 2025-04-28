@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Java**
 
-- 💬 Ask me about **Html,Css,Javascript,Git,Bootstrap,Tailwind**
+- 💬 Ask me about **Html,Css,Javascript,React,Typescript,Git,Bootstrap,Tailwind**
 
 - 📫 How to reach me **gncmhmtali@gmail.com**
 
