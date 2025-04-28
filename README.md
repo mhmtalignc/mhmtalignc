@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali</h1>
 
 
-- 🌱 I’m currently learning **React,Java**
+- 🌱 I’m currently learning **Flutter,Java**
 
 - 💬 Ask me about **Html,Css,Javascript,React,Typescript,Git,Bootstrap,Tailwind**
 
