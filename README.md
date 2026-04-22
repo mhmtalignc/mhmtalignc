@@ -9,8 +9,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Flutter** and **Java**
-- 💬 Ask me about **Angular, Node.js, PostgreSQL, JavaScript, TypeScript, HTML, CSS**
+- 🎓 Computer Engineering graduate from **Sakarya University**
+- 💻 Full-stack developer focused on **Angular, Node.js and PostgreSQL**
+- 🌱 Currently improving my skills in **Flutter** and **Java**
 - 📫 Reach me at: **gncmhmtali@gmail.com**
 
 ---
