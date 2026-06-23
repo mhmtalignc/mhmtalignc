@@ -2,7 +2,7 @@
 <h3 align="center">Frontend & Backend Developer</h3>
 
 <p align="center">
-  I build modern web applications with Angular, Node.js and PostgreSQL.
+  I build modern web applications with Angular, C#, Node.js and PostgreSQL.
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - 🎓 Computer Engineering graduate from **Sakarya University**
-- 💻 Full-stack developer focused on **Angular, Node.js and PostgreSQL**
+- 💻 Full-stack developer focused on **Angular, C#, Node.js and PostgreSQL**
 - 🌱 Currently improving my skills in **Flutter** and **Java**
 - 📫 Reach me at: **gncmhmtali@gmail.com**
 
